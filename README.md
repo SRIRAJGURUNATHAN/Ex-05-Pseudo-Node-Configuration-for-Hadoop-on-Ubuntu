@@ -214,4 +214,4 @@ View the output files on the distributed file system
 ```
 ## Result:
 Thus, the implementation of Pseudo Node configuration for Hadoop on ubuntu is successfully executed.
-++++++
+
